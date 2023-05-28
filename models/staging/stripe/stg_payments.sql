@@ -16,4 +16,6 @@ payments as (
     from source
 )
 
-select * from payments
+select * from payments/*
+    My very first staging model
+*/
